@@ -45,4 +45,4 @@ function alertRndText(data) {
   refs.random.textContent = randomText;
 }
 
-load_text("http://portmonetv.github.io/simplebot2/A/data/text.txt");
+load_text("https://portmonetv.github.io/simplebot2/A/data/text.txt");
