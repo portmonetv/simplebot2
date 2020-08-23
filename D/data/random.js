@@ -45,4 +45,4 @@ function alertRndText(data) {
   refs.random.textContent = randomText;
 }
 
-load_text("http://port-mone.tv/wp-content/uploads/special/1_101/D/data/text.txt");
+load_text("https://portmonetv.github.io/simplebot2/D/data/text.txt");
